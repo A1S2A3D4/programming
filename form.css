@@ -1,0 +1,13 @@
+.button{
+     font-family: 'Baloo 2', cursive;
+    float: right;
+    }
+   
+    .button a{
+     color:white;
+     text-decoration: none;
+    }
+
+    .button a:hover{
+      font-weight: bold;
+       }
